@@ -257,6 +257,15 @@
                     "is_ro": true
                 }
             ]
+        },
+        {
+            "type": "map",
+            "value": {
+                "address": "0x70006000",
+                "size": "0x1000",
+                "is_ro": false,
+                "is_io": true
+            }
         }
     ]
 }
